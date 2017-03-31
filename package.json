@@ -1,0 +1,11 @@
+{
+  "name": "coexist",
+  "version": "0.1.0",
+  "description": "Allow other extensions to be required into a node program",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "license": "MIT"
+}
