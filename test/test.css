@@ -1,0 +1,15 @@
+.unit {
+  position: absolute;
+  background: $black;
+  opacity: 0.1;
+
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 3px;
+
+  pointer-events: none;
+}
+
+svg {
+  width: 19px;
+}
